@@ -17,9 +17,9 @@ module.exports = {
   socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
-  twitter: 'https://www.baidu.com/',
-  github: 'https://www.baidu.com/',
-  linkedin: 'https://www.baidu.com/',
+  twitter: 'shuxun13',
+  github: 'shuxun13',
+  linkedin: 'shuxun13',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
