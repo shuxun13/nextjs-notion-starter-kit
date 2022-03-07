@@ -118,3 +118,10 @@ pre[class*='language-'] > code {
   box-shadow: none !important;
   background: none !important;
 }
+
+
+/* 自己加的 */
+
+.dark-mode {
+  background-color: rgb(3, 100, 197);
+}
