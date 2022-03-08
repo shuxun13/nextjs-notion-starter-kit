@@ -128,4 +128,5 @@ pre[class*='language-'] > code {
 
 .notion-aside {
   background-color: rgb(255, 0, 0) !important;
+  display:none !important;
 }
