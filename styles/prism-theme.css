@@ -125,3 +125,7 @@ pre[class*='language-'] > code {
 /* .dark-mode {
   background-color: rgba(53, 53, 53, 1) !important;
 } */
+
+.notion-aside {
+  background-color: rgb(255, 0, 0) !important;
+}
