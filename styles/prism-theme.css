@@ -132,7 +132,8 @@ pre[class*='language-'] > code {
 }
 .styles_social__235gY{
   background-color: rgb(255, 0, 0) !important;
+  display:none !important;
 }
 .styles_settings__1ed8a {
-  display:none !important;
+  float: right !important; 
 }
