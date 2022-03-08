@@ -8,7 +8,7 @@
 }
 
 .dark-mode .notion-code {
-  background-color: rgba(53, 53, 53, 1);
+  background-color: rgba(53, 53, 53, 1) !important;
   border-color: rgba(55, 65, 81, 1);
 }
 .notion code {
@@ -122,6 +122,6 @@ pre[class*='language-'] > code {
 
 /* 自己加的 */
 
-.dark-mode {
-  background-color: #353535 !important;
-}
+/* .dark-mode {
+  background-color: rgba(53, 53, 53, 1) !important;
+} */
