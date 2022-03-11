@@ -343,3 +343,7 @@
 .dhh{
   background: transparent;
 }
+
+.element.style{
+  opacity: 1 !important; 
+}
