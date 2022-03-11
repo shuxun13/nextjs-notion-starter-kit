@@ -141,3 +141,8 @@ pre[class*='language-'] > code {
 .rhs{
   display: none !important;
 }
+
+.notion-page-cover {
+  box-shadow:2px 2px 8px 4px hsl(0deg 0% 6% / 0%);
+  -webkit-box-shadow:2px 2px 8px 4px hsl(0deg 0% 6% / 0%);
+}
