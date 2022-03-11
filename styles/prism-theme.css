@@ -138,6 +138,6 @@ pre[class*='language-'] > code {
   float: right !important; 
 }
 
-.element.style{
-  opacity: 1 !important; 
+.rhs{
+  display: none !important;
 }
