@@ -137,3 +137,7 @@ pre[class*='language-'] > code {
 .styles_settings__1ed8a {
   float: right !important; 
 }
+
+.element.style{
+  opacity: 1 !important; 
+}

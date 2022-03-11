@@ -289,7 +289,7 @@
 }
 
 .notion-brown_background {
-  /* dark blue */
+  /* dark blue 深蓝 */
   background-image: linear-gradient(
     119deg,
     var(--bg-color),
@@ -318,7 +318,7 @@
   border-radius: 16px;
 }
 
-/* if you don't want rounded page images, remove this */
+/* if you don't want rounded page images, remove this 如果您不想要圆形页面图像，请删除它*/
 .notion-page-icon-wrapper img.notion-page-icon {
   border-radius: 50%;
   box-shadow: 0 8px 40px 0 rgb(0 0 0 / 21%);
@@ -342,8 +342,4 @@
 
 .dhh{
   background: transparent;
-}
-
-.element.style{
-  opacity: 1 !important; 
 }
